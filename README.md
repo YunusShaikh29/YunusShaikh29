@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YunusShaikh29
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me 
 
 <!---
