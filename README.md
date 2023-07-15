@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me 
+- 📫 How to reach me yunusshaikh29082@gmail.com
 
 <!---
 YunusShaikh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
