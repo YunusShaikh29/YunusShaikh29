@@ -1,0 +1,17 @@
+{
+  "name": "yunusshaikh29",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @YunusShaikh29\r - 👀 I’m interested in full stack web development\r - 🌱 I’m currently learning Typescript\r - 💞️ I’m looking to collaborate on web development projects\r - 📫 How to reach me yunusshaikh29082@gmail.com",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": ["cli.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunusShaikh29/YunusShaikh29.git"
+  },
+  "keywords": ["full stack dev", "wanna be web3 dev"],
+  "author": "Yunus Shaikh",
+  "license": "ISC",
+  "bugs": {"url": "https://github.com/YunusShaikh29/YunusShaikh29/issues"},
+  "homepage": "https://github.com/YunusShaikh29/YunusShaikh29#readme"
+}
